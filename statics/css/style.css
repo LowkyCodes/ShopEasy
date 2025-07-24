@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+#meal-card {
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  width: 300px;
+  font-size: 20px;
+}
+
+.buttons button {
+  font-size: 24px;
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
